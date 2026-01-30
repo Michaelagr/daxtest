@@ -1,0 +1,141 @@
+2026-01-18 12:31:52,073 - INFO - Fetching series data...
+2026-01-18 12:31:53,880 - INFO - Found 4192 ODAX products
+2026-01-18 12:31:53,881 - INFO - Starting margin calculation...
+2026-01-18 12:31:53,881 - INFO - Processing items 0-100 of 4192 (chunk size: 100)
+2026-01-18 12:31:55,569 - INFO - Progress: 2.4% | Success rate: 100.00% | Chunk time: 1.69s | Items/sec: 59.3
+2026-01-18 12:31:56,553 - INFO - Processing items 100-220 of 4192 (chunk size: 120)
+2026-01-18 12:31:57,569 - INFO - Progress: 5.2% | Success rate: 100.00% | Chunk time: 1.02s | Items/sec: 118.0
+2026-01-18 12:31:58,562 - INFO - Processing items 220-364 of 4192 (chunk size: 144)
+2026-01-18 12:31:59,717 - INFO - Progress: 8.7% | Success rate: 100.00% | Chunk time: 1.15s | Items/sec: 124.7
+2026-01-18 12:32:00,709 - INFO - Processing items 364-536 of 4192 (chunk size: 172)
+2026-01-18 12:32:02,300 - INFO - Progress: 12.8% | Success rate: 100.00% | Chunk time: 1.59s | Items/sec: 108.1
+2026-01-18 12:32:03,292 - INFO - Processing items 536-736 of 4192 (chunk size: 200)
+2026-01-18 12:32:05,070 - INFO - Progress: 17.6% | Success rate: 100.00% | Chunk time: 1.78s | Items/sec: 112.4
+2026-01-18 12:32:06,063 - INFO - Processing items 736-936 of 4192 (chunk size: 200)
+2026-01-18 12:32:07,600 - ERROR - API error for ETD 76958768: Status 429, Response: 
+2026-01-18 12:32:09,719 - INFO - Progress: 22.3% | Success rate: 100.00% | Chunk time: 3.66s | Items/sec: 54.7
+2026-01-18 12:32:10,702 - INFO - Processing items 936-1136 of 4192 (chunk size: 200)
+2026-01-18 12:32:12,928 - INFO - Progress: 27.1% | Success rate: 100.00% | Chunk time: 2.23s | Items/sec: 89.9
+2026-01-18 12:32:13,917 - INFO - Processing items 1136-1336 of 4192 (chunk size: 200)
+2026-01-18 12:32:19,499 - INFO - Progress: 31.9% | Success rate: 100.00% | Chunk time: 5.58s | Items/sec: 35.8
+2026-01-18 12:32:20,472 - INFO - Processing items 1336-1496 of 4192 (chunk size: 160)
+2026-01-18 12:32:22,803 - INFO - Progress: 35.7% | Success rate: 100.00% | Chunk time: 2.33s | Items/sec: 68.6
+2026-01-18 12:32:23,790 - INFO - Processing items 1496-1656 of 4192 (chunk size: 160)
+2026-01-18 12:32:25,585 - INFO - Progress: 39.5% | Success rate: 100.00% | Chunk time: 1.80s | Items/sec: 89.1
+2026-01-18 12:32:26,575 - INFO - Processing items 1656-1848 of 4192 (chunk size: 192)
+2026-01-18 12:32:27,811 - ERROR - API error for ETD 79970547: Status 429, Response: 
+2026-01-18 12:32:27,813 - ERROR - API error for ETD 79970785: Status 429, Response: 
+2026-01-18 12:32:27,864 - ERROR - API error for ETD 79973357: Status 429, Response: 
+2026-01-18 12:32:27,872 - ERROR - API error for ETD 79973604: Status 429, Response: 
+2026-01-18 12:32:27,879 - ERROR - API error for ETD 79974362: Status 429, Response: 
+2026-01-18 12:32:27,885 - ERROR - API error for ETD 79974692: Status 429, Response: 
+2026-01-18 12:32:27,891 - ERROR - API error for ETD 79975084: Status 429, Response: 
+2026-01-18 12:32:27,964 - ERROR - API error for ETD 79975221: Status 429, Response: 
+2026-01-18 12:32:30,044 - INFO - Progress: 44.1% | Success rate: 100.00% | Chunk time: 3.47s | Items/sec: 55.4
+2026-01-18 12:32:31,027 - INFO - Processing items 1848-2040 of 4192 (chunk size: 192)
+2026-01-18 12:32:32,258 - ERROR - API error for ETD 81767470: Status 429, Response: 
+2026-01-18 12:32:32,283 - ERROR - API error for ETD 81811319: Status 429, Response: 
+2026-01-18 12:32:32,294 - ERROR - API error for ETD 81811363: Status 429, Response: 
+2026-01-18 12:32:32,300 - ERROR - API error for ETD 81811409: Status 429, Response: 
+2026-01-18 12:32:32,316 - ERROR - API error for ETD 81811511: Status 429, Response: 
+2026-01-18 12:32:32,325 - ERROR - API error for ETD 81811640: Status 429, Response: 
+2026-01-18 12:32:34,419 - INFO - Progress: 48.7% | Success rate: 100.00% | Chunk time: 3.39s | Items/sec: 56.6
+2026-01-18 12:32:35,404 - INFO - Processing items 2040-2232 of 4192 (chunk size: 192)
+2026-01-18 12:32:36,558 - ERROR - API error for ETD 83020017: Status 429, Response: 
+2026-01-18 12:32:36,589 - ERROR - API error for ETD 83020071: Status 429, Response: 
+2026-01-18 12:32:36,598 - ERROR - API error for ETD 83020081: Status 429, Response: 
+2026-01-18 12:32:36,609 - ERROR - API error for ETD 83020103: Status 429, Response: 
+2026-01-18 12:32:36,641 - ERROR - API error for ETD 83020133: Status 429, Response: 
+2026-01-18 12:32:36,647 - ERROR - API error for ETD 83020127: Status 429, Response: 
+2026-01-18 12:32:36,650 - ERROR - API error for ETD 83020155: Status 429, Response: 
+2026-01-18 12:32:36,705 - ERROR - API error for ETD 83426470: Status 429, Response: 
+2026-01-18 12:32:36,760 - ERROR - API error for ETD 83496988: Status 429, Response: 
+2026-01-18 12:32:38,827 - INFO - Progress: 53.2% | Success rate: 100.00% | Chunk time: 3.42s | Items/sec: 56.1
+2026-01-18 12:32:39,811 - INFO - Processing items 2232-2424 of 4192 (chunk size: 192)
+2026-01-18 12:32:40,703 - ERROR - API error for ETD 85746471: Status 429, Response: 
+2026-01-18 12:32:40,715 - ERROR - API error for ETD 85747069: Status 429, Response: 
+2026-01-18 12:32:40,723 - ERROR - API error for ETD 85747853: Status 429, Response: 
+2026-01-18 12:32:40,728 - ERROR - API error for ETD 85747356: Status 429, Response: 
+2026-01-18 12:32:40,740 - ERROR - API error for ETD 85748450: Status 429, Response: 
+2026-01-18 12:32:40,828 - ERROR - API error for ETD 85751035: Status 429, Response: 
+2026-01-18 12:32:40,833 - ERROR - API error for ETD 85751081: Status 429, Response: 
+2026-01-18 12:32:40,841 - ERROR - API error for ETD 85751500: Status 429, Response: 
+2026-01-18 12:32:40,872 - ERROR - API error for ETD 85751931: Status 429, Response: 
+2026-01-18 12:32:40,880 - ERROR - API error for ETD 85752041: Status 429, Response: 
+2026-01-18 12:32:40,891 - ERROR - API error for ETD 85752084: Status 429, Response: 
+2026-01-18 12:32:43,083 - INFO - Progress: 57.8% | Success rate: 100.00% | Chunk time: 3.27s | Items/sec: 58.7
+2026-01-18 12:32:44,067 - INFO - Processing items 2424-2616 of 4192 (chunk size: 192)
+2026-01-18 12:32:44,898 - ERROR - API error for ETD 87867864: Status 429, Response: 
+2026-01-18 12:32:44,904 - ERROR - API error for ETD 87868239: Status 429, Response: 
+2026-01-18 12:32:44,918 - ERROR - API error for ETD 87868441: Status 429, Response: 
+2026-01-18 12:32:44,928 - ERROR - API error for ETD 87868834: Status 429, Response: 
+2026-01-18 12:32:44,957 - ERROR - API error for ETD 87869137: Status 429, Response: 
+2026-01-18 12:32:44,976 - ERROR - API error for ETD 87869424: Status 429, Response: 
+2026-01-18 12:32:44,986 - ERROR - API error for ETD 87869451: Status 429, Response: 
+2026-01-18 12:32:45,012 - ERROR - API error for ETD 87869864: Status 429, Response: 
+2026-01-18 12:32:45,057 - ERROR - API error for ETD 87870907: Status 429, Response: 
+2026-01-18 12:32:45,089 - ERROR - API error for ETD 87871394: Status 429, Response: 
+2026-01-18 12:32:47,174 - INFO - Progress: 62.4% | Success rate: 100.00% | Chunk time: 3.11s | Items/sec: 61.8
+2026-01-18 12:32:48,158 - INFO - Processing items 2616-2808 of 4192 (chunk size: 192)
+2026-01-18 12:32:48,700 - ERROR - API error for ETD 88265939: Status 429, Response: 
+2026-01-18 12:32:48,798 - ERROR - API error for ETD 88266344: Status 429, Response: 
+2026-01-18 12:32:48,798 - ERROR - API error for ETD 88266401: Status 429, Response: 
+2026-01-18 12:32:48,847 - ERROR - API error for ETD 88266568: Status 429, Response: 
+2026-01-18 12:32:48,911 - ERROR - API error for ETD 88266725: Status 429, Response: 
+2026-01-18 12:32:49,031 - ERROR - API error for ETD 88266982: Status 429, Response: 
+2026-01-18 12:32:49,091 - ERROR - API error for ETD 88508899: Status 429, Response: 
+2026-01-18 12:32:49,227 - ERROR - API error for ETD 88645962: Status 429, Response: 
+2026-01-18 12:32:49,257 - ERROR - API error for ETD 88672780: Status 429, Response: 
+2026-01-18 12:32:49,341 - ERROR - API error for ETD 88673017: Status 429, Response: 
+2026-01-18 12:32:49,449 - ERROR - API error for ETD 88673197: Status 429, Response: 
+2026-01-18 12:32:51,561 - INFO - Progress: 67.0% | Success rate: 100.00% | Chunk time: 3.40s | Items/sec: 56.4
+2026-01-18 12:32:52,544 - INFO - Processing items 2808-3000 of 4192 (chunk size: 192)
+2026-01-18 12:32:53,362 - ERROR - API error for ETD 88675012: Status 429, Response: 
+2026-01-18 12:32:53,369 - ERROR - API error for ETD 88675021: Status 429, Response: 
+2026-01-18 12:32:53,396 - ERROR - API error for ETD 88675023: Status 429, Response: 
+2026-01-18 12:32:53,419 - ERROR - API error for ETD 88675041: Status 429, Response: 
+2026-01-18 12:32:53,424 - ERROR - API error for ETD 88675049: Status 429, Response: 
+2026-01-18 12:32:53,501 - ERROR - API error for ETD 88675075: Status 429, Response: 
+2026-01-18 12:32:53,506 - ERROR - API error for ETD 88675077: Status 429, Response: 
+2026-01-18 12:32:53,514 - ERROR - API error for ETD 88675089: Status 429, Response: 
+2026-01-18 12:32:55,576 - INFO - Progress: 71.6% | Success rate: 100.00% | Chunk time: 3.03s | Items/sec: 63.3
+2026-01-18 12:32:56,562 - INFO - Processing items 3000-3192 of 4192 (chunk size: 192)
+2026-01-18 12:32:57,795 - ERROR - API error for ETD 88840817: Status 429, Response: 
+2026-01-18 12:32:57,813 - ERROR - API error for ETD 88841196: Status 429, Response: 
+2026-01-18 12:32:57,816 - ERROR - API error for ETD 88841337: Status 429, Response: 
+2026-01-18 12:32:57,825 - ERROR - API error for ETD 88841453: Status 429, Response: 
+2026-01-18 12:32:57,833 - ERROR - API error for ETD 88841577: Status 429, Response: 
+2026-01-18 12:32:57,842 - ERROR - API error for ETD 88841739: Status 429, Response: 
+2026-01-18 12:32:57,850 - ERROR - API error for ETD 88841917: Status 429, Response: 
+2026-01-18 12:32:57,853 - ERROR - API error for ETD 88841961: Status 429, Response: 
+2026-01-18 12:32:57,894 - ERROR - API error for ETD 88842358: Status 429, Response: 
+2026-01-18 12:32:57,902 - ERROR - API error for ETD 88842499: Status 429, Response: 
+2026-01-18 12:33:00,356 - INFO - Progress: 76.1% | Success rate: 100.00% | Chunk time: 3.79s | Items/sec: 50.6
+2026-01-18 12:33:01,337 - INFO - Processing items 3192-3384 of 4192 (chunk size: 192)
+2026-01-18 12:33:03,634 - INFO - Progress: 80.7% | Success rate: 100.00% | Chunk time: 2.30s | Items/sec: 83.6
+2026-01-18 12:33:04,623 - INFO - Processing items 3384-3576 of 4192 (chunk size: 192)
+2026-01-18 12:33:06,973 - INFO - Progress: 85.3% | Success rate: 100.00% | Chunk time: 2.35s | Items/sec: 81.7
+2026-01-18 12:33:07,962 - INFO - Processing items 3576-3768 of 4192 (chunk size: 192)
+2026-01-18 12:33:10,827 - INFO - Progress: 89.9% | Success rate: 100.00% | Chunk time: 2.87s | Items/sec: 67.0
+2026-01-18 12:33:11,813 - INFO - Processing items 3768-3960 of 4192 (chunk size: 192)
+2026-01-18 12:33:12,931 - ERROR - API error for ETD 89500485: Status 429, Response: 
+2026-01-18 12:33:12,959 - ERROR - API error for ETD 89500567: Status 429, Response: 
+2026-01-18 12:33:12,960 - ERROR - API error for ETD 89500604: Status 429, Response: 
+2026-01-18 12:33:12,973 - ERROR - API error for ETD 89500631: Status 429, Response: 
+2026-01-18 12:33:13,155 - ERROR - API error for ETD 89500972: Status 429, Response: 
+2026-01-18 12:33:13,162 - ERROR - API error for ETD 89501004: Status 429, Response: 
+2026-01-18 12:33:15,283 - INFO - Progress: 94.5% | Success rate: 100.00% | Chunk time: 3.47s | Items/sec: 55.3
+2026-01-18 12:33:16,266 - INFO - Processing items 3960-4152 of 4192 (chunk size: 192)
+2026-01-18 12:33:17,347 - ERROR - API error for ETD 89687425: Status 429, Response: 
+2026-01-18 12:33:17,348 - ERROR - API error for ETD 89660664: Status 429, Response: 
+2026-01-18 12:33:17,349 - ERROR - API error for ETD 89687434: Status 429, Response: 
+2026-01-18 12:33:17,363 - ERROR - API error for ETD 89687464: Status 429, Response: 
+2026-01-18 12:33:17,387 - ERROR - API error for ETD 89687506: Status 429, Response: 
+2026-01-18 12:33:17,402 - ERROR - API error for ETD 89687523: Status 429, Response: 
+2026-01-18 12:33:17,478 - ERROR - API error for ETD 89687586: Status 429, Response: 
+2026-01-18 12:33:17,493 - ERROR - API error for ETD 89687612: Status 429, Response: 
+2026-01-18 12:33:19,602 - INFO - Progress: 99.0% | Success rate: 100.00% | Chunk time: 3.34s | Items/sec: 57.6
+2026-01-18 12:33:20,586 - INFO - Processing items 4152-4192 of 4192 (chunk size: 192)
+2026-01-18 12:33:20,964 - INFO - Progress: 100.0% | Success rate: 100.00% | Chunk time: 0.38s | Items/sec: 105.9
+2026-01-18 12:33:20,964 - INFO - Completed in 87.1s | Average speed: 48.1 items/sec | Final success rate: 100.00%
+2026-01-18 12:33:21,103 - INFO - Results saved to Margin_Result.txt
