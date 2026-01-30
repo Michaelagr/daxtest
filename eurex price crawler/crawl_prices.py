@@ -4,9 +4,7 @@ from datetime import datetime
 import pandas as pd
 import os
 import sys
-import os
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-from options_pipeline.db_ingest import upsert_snapshots
+from db_ingest import upsert_snapshots
 from dotenv import load_dotenv
 import pytz
 from concurrent.futures import ThreadPoolExecutor, as_completed
