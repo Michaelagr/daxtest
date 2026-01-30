@@ -31,6 +31,8 @@ jobs:
           python -m pip install --upgrade pip
           pip install pandas numpy pytz psycopg2-binary python-dotenv playwright requests urllib3
           playwright install chromium
+          echo "=== Installed packages ==="
+          pip list | grep -i psycopg
 
       - name: Run price crawler
         env:
@@ -39,6 +41,11 @@ jobs:
           SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
         working-directory: "eurex price crawler"
         run: |
+          echo "=== Python path ==="
+          which python
+          echo "=== Checking psycopg2 ==="
+          python -c "import psycopg2; print('psycopg2 OK')"
+          echo "=== Running crawler ==="
           python run_with_lock.py
 
       - name: Upload log on failure
