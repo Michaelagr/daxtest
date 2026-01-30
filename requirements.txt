@@ -1,0 +1,19 @@
+# DAX Options Project - Python Dependencies
+
+# Data processing
+pandas
+numpy
+pytz
+
+# Database
+psycopg2-binary
+
+# Environment variables
+python-dotenv
+
+# Web scraping (price crawler)
+playwright
+
+# HTTP requests (margin scraper)
+requests
+urllib3
